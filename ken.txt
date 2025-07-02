@@ -1,1 +1,2 @@
 Name: Ken
+Favorite color: Blue
