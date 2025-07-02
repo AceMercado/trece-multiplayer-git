@@ -1,3 +1,4 @@
 name: vhan
 favorite color: brown
 favorite food: karekare
+quote: enjoy life
